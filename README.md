@@ -4,5 +4,5 @@ This repo contains some of the Terraform modules that I created. Feel free to us
 inspiration from it :)
 
 ## repo structure
-VMWare - Terraform modules for VMWare environment(Vsphere)
-AWS - Terraform modules for AWS
+- VMWare -- Terraform modules for VMWare environment(Vsphere)
+- AWS -- Terraform modules for AWS
